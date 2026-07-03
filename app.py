@@ -1108,7 +1108,7 @@ Built using
 
 <p>
 
-Developed by <b>Mananmeet Singh</b>
+Developed by <b>Mananmeet</b>
 
 </p>
 
