@@ -6,7 +6,7 @@ Prompt Templates
 Contains all prompt templates
 used in AI Medico Bot.
 
-Author : Himanshu Rajak
+Author : Mananmeet Singh
 Project : AI Medico Bot
 """
 

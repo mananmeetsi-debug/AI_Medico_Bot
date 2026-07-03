@@ -1,7 +1,7 @@
 """
 AI Medico Bot Utilities
 
-Author : Himanshu Rajak
+Author : Mananmeet Singh
 """
 
 from .loader import PDFLoader

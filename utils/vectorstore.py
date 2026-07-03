@@ -8,7 +8,7 @@ Supports
 1. FAISS
 2. ChromaDB
 
-Author : Himanshu Rajak
+Author : Mananmeet Singh
 Project : AI Medico Bot
 """
 

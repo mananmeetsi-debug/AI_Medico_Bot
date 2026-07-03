@@ -10,7 +10,7 @@ Supports
 3. Medical Term Explanation
 4. Questions for Doctor
 
-Author : Himanshu Rajak
+Author : Mananmeet Singh
 Project : AI Medico Bot
 """
 
